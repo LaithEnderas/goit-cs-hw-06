@@ -1,6 +1,3 @@
-# main.py
-# simple web app without frameworks: http server + udp socket server + mongodb
-
 import logging
 import mimetypes
 import os
